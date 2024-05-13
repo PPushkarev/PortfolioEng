@@ -1,10 +1,11 @@
+## Hello, everyone!
 
-Hello, Everyone !
-Thanks  you are here!
-This is portfolio of my testing works duaring using Python staff. 
+This is a portfolio of my manual and autotesting work.
 
 About me:
- Automation Tester, Selenium,  to develop and maintain automated test scripts and facilitate quality assurance for web applications. Restructured and improved the test automation framework, resulting in a 20% reduction in time spent conducting tests, and consolidated automated tests, reducing time spent on manual tests by 60%. Executed tests, developed test plans and standardizing test cases to ensure product quality and timely product delivery."
+Automation tester, Selenium, for developing and maintaining automated test scripts and facilitate quality assurance for web applications.
+Restructured and improved the test automation framework, resulting in a 20% reduction in time spent running tests, and consolidated the automated tests, reducing the time spent on manual testing by 60%.
+Execution of tests, development of test plans and standardization of test cases to ensure product quality and timely product delivery.
 
 https://github.com/PPushkarev/PortfolioEng.git
 peternsk@inbox.ru
@@ -32,7 +33,7 @@ ______________________________
 
 
 
-This is my pdf [CV](https://drive.google.com/file/d/1nKGRgEccL6BRBLuQinpwQfvzZmHGt_Bz/view?usp=sharing) 
+This is my pdf Curriculum Vitae [(CV)](https://drive.google.com/file/d/1nKGRgEccL6BRBLuQinpwQfvzZmHGt_Bz/view?usp=sharing) 
 
 
 
@@ -86,7 +87,7 @@ SQL databases
 
 - Can write complex requests using subqueries
 - Familiar with the use of aliases and wildcards
-- Know the difference between joins and unions and can use them in queries
+- Can use JOINs in queries
 
 Python fundamentals
 
@@ -112,7 +113,7 @@ Swagger
 Charles/Fiddler Proxies
 - Can intersept traffic between aplications 
 - Change HTTP requests for testing purpose 
-- Prefer Charles for its user-friendly interface and robust features
+
 
 Jira
 
@@ -157,6 +158,32 @@ __________________________
 
 
 
- ##      <a id="title5">Examples of my work:</a> 
+ ##      <a id="title5">Examples of my works:</a> 
+
+___
+
+[Test cases and Bug report site PAO Rostelecom](https://docs.google.com/spreadsheets/d/16GVL5TrJJlQ5yZDawsOSUTOrWSJGcdZA/edit?usp=sharing&ouid=117048606564109804249&rtpof=true&sd=true)
+
+[Checklist site Strosetki.ru ](https://docs.google.com/spreadsheets/d/14LNPQhrX131oL8p1YH_rinNWhNut6sj4930lVtpak-4/edit?usp=sharing) 
+
+[Test plan, checklist, Tests cases site Epalabra](https://drive.google.com/drive/folders/1l3JKlXGBovODf1HmT-jUoC2xBOUibxy1?usp=sharing)
+
+[Collection of Postman tests for testing Interfaks web site JSON
+](https://drive.google.com/file/d/1hRbdYBAcxKAwFAwoF2chPwOs6IXCLb62/view?usp=sharing)
+
+
+[Projects of Automation testing using Pytest  for web site  checking
+](https://github.com/PPushkarev/Projects.git)
+
+
+[Project of Automation testing using Page Object pattern  PAO Rostelecom web site  
+](https://github.com/PPushkarev/PageObject.git)
+
+
+
+
+
+
+
 
 ___

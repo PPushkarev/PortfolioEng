@@ -176,9 +176,6 @@ ___
 ](https://github.com/PPushkarev/Projects.git)
 
 
-[Project of Automation testing using Page Object pattern  PAO Rostelecom web site  
-](https://github.com/PPushkarev/PageObject.git)
-
 [Project of Automation UI testing using Page Object pattern  DEMOQA web site  
 ](https://github.com/PPushkarev/DEMOQA.git)
 

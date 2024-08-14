@@ -172,10 +172,6 @@ ___
 ](https://drive.google.com/file/d/1hRbdYBAcxKAwFAwoF2chPwOs6IXCLb62/view?usp=sharing)
 
 
-[Projects of Automation testing using Pytest  for web site  checking
-](https://github.com/PPushkarev/Projects.git)
-
-
 [Project of Automation UI testing using Page Object pattern  DEMOQA web site  
 ](https://github.com/PPushkarev/DEMOQA.git)
 

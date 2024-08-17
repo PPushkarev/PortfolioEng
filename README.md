@@ -166,7 +166,7 @@ ___
 
 [Checklist site Strosetki.ru ](https://docs.google.com/spreadsheets/d/14LNPQhrX131oL8p1YH_rinNWhNut6sj4930lVtpak-4/edit?usp=sharing) 
 
-[Test plan, checklist, Tests cases site Epalabra](https://drive.google.com/drive/folders/1l3JKlXGBovODf1HmT-jUoC2xBOUibxy1?usp=sharing)
+[Test plan, checklist, Tests cases site Espalabra](https://drive.google.com/drive/folders/1l3JKlXGBovODf1HmT-jUoC2xBOUibxy1?usp=sharing)
 
 [Collection of Postman tests for testing Interfaks web site JSON
 ](https://drive.google.com/file/d/1hRbdYBAcxKAwFAwoF2chPwOs6IXCLb62/view?usp=sharing)

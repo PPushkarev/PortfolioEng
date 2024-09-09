@@ -181,7 +181,7 @@ ___
 ](https://github.com/PPushkarev/OrangeHRM.git)
 
 [ Project of Automation UI testing using Behave BDD (Cucumber)Selenium Python POM 
-](https://github.com/PPushkarev/BehaveBDDCucumber.gi)
+](https://github.com/PPushkarev/BehaveBDDCucumber.git)
 
 
 

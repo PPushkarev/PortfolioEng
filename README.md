@@ -138,11 +138,14 @@ Chrome DevTools
 - Can catch main HTML bugs and API requests/responses problems
   
  
-
 Python 
 - Know main syntax of Python 
 - Using  frameworks such Selenium, and Python Pytest
-- Use Page Object pattern for testing 
+- Use Page Object  pattern for testing
+
+BDD Cucumber framework 
+- Can use BDD for autotesting
+- Can create BDD Cucmber POM framework for GUI testing
 
 Mind maps & diagrams
 

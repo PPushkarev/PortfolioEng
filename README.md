@@ -164,21 +164,29 @@ __________________________
  ##      <a id="title5">Examples of my works:</a> 
 
 ___
-
+### Manual testing samples
 [Test cases and Bug report site PAO Rostelecom](https://docs.google.com/spreadsheets/d/16GVL5TrJJlQ5yZDawsOSUTOrWSJGcdZA/edit?usp=sharing&ouid=117048606564109804249&rtpof=true&sd=true)
 
 [Checklist site Strosetki.ru ](https://docs.google.com/spreadsheets/d/14LNPQhrX131oL8p1YH_rinNWhNut6sj4930lVtpak-4/edit?usp=sharing) 
 
 [Test plan, checklist, Tests cases site Espalabra](https://drive.google.com/drive/folders/1l3JKlXGBovODf1HmT-jUoC2xBOUibxy1?usp=sharing)
 
+
+### API Testing 
 [Collection of Postman tests for testing Interfaks web site JSON
 ](https://drive.google.com/file/d/1hRbdYBAcxKAwFAwoF2chPwOs6IXCLb62/view?usp=sharing)
 
+[Project of Automation API REST testing using Page Object pattern  https://restful-api.dev/ web site  
+](https://github.com/PPushkarev/AutoAPI-.git)
 
+[Project of Automation API REST testing using Page Object GitHub API  
+](https://github.com/PPushkarev/Github_API_testing.git)
+
+
+
+### GUI Testing 
 [Project of Automation UI testing using Page Object pattern  DEMOQA web site  
 ](https://github.com/PPushkarev/DEMOQA.git)
-
-
 
 [Project of Automation UI testing using Page Object pattern OrangeHRM web site  
 ](https://github.com/PPushkarev/OrangeHRM.git)
@@ -186,11 +194,14 @@ ___
 [ Project of Automation UI testing using Behave BDD (Cucumber)Selenium Python POM 
 ](https://github.com/PPushkarev/BehaveBDDCucumber.git)
 
+[ Project of Automation UI testing Selenium Python POM site: https://www.saucedemo.com/
+](https://github.com/PPushkarev/saucedemo.com.git)
 
 
-[Project of Automation API REST testing using Page Object pattern  https://restful-api.dev/ web site  
-](https://github.com/PPushkarev/AutoAPI-.git)
 
+
+
+### SQL Testing 
 [MySQL localhost data base queries on Python   
 ](https://github.com/PPushkarev/MySQL.git)
 

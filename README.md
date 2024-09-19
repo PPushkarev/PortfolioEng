@@ -191,6 +191,10 @@ ___
 [Project of Automation API REST testing using Page Object pattern  https://restful-api.dev/ web site  
 ](https://github.com/PPushkarev/AutoAPI-.git)
 
+[MySQL localhost data base queries on Python   
+](https://github.com/PPushkarev/MySQL.git)
+
+
 
 
 

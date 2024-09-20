@@ -131,7 +131,9 @@ PyCharm IDE/ Visual Studio Code IDE
 
 My SQL
 - Use to create, modify and extract data from the relational database
-- Write JOIN queries for SQL database 
+- Write INSERT, UPDAT, SELECT and JOIN queries for SQL database 
+
+ 
 
 Chrome DevTools
 - Essential using it for HTML debugging inspections 

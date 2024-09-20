@@ -130,8 +130,9 @@ PyCharm IDE/ Visual Studio Code IDE
 
 
 My SQL
-- Use to create, modify and extract data from the relational database
-- Write INSERT, UPDAT, SELECT and JOIN queries for SQL database 
+- Use to create, modify and extract table and get data from the relational database
+- Write INSERT, UPDATE, SELECT, JOIN and others queries for SQL database
+- Can write SQL queries on Python  
 
  
 

@@ -200,6 +200,8 @@ ___
 [ Project of Automation UI testing Selenium Python POM site: https://www.saucedemo.com/
 ](https://github.com/PPushkarev/saucedemo.com.git)
 
+[ Project of Automation UI testing Android mobile using Appium
+](https://github.com/PPushkarev/Appium.git)
 
 
 

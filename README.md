@@ -197,8 +197,12 @@ ___
 [ Project of Automation UI testing using Behave BDD (Cucumber)Selenium Python POM 
 ](https://github.com/PPushkarev/BehaveBDDCucumber.git)
 
-[ Project of Automation UI testing Selenium Python POM site: https://www.saucedemo.com/
+[ Project of Automation UI testing Selenium Python POM site: https://www.saucedemo.com/ using Selenium framwork
 ](https://github.com/PPushkarev/saucedemo.com.git)
+
+[ Project of Automation UI testing Selenium Python POM site: https://www.saucedemo.com/ using Playwright framwork
+](https://github.com/PPushkarev/Playwright.git)
+
 
 [ Project of Automation UI testing Android mobile using Appium
 ](https://github.com/PPushkarev/Appium.git)
